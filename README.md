@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Min Thant Khaing.
-- 👀 I’m interested in all kinds of modern web technology!
+- 👀 I’m interested in all kinds of modern technology and Computer Science!
 - 🌱 I’m currently learning the MERN stack.
 - 💞️ I’m looking to collaborate on future projects!
 - 📫 Reach me out: Email - marsjason485@gmail.com.
