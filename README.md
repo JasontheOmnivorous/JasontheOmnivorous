@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 [![Tech Stack: MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![Tech Stack: Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=flat&logo=mongoose)](https://mongoosejs.com/)
 [![Tech Stack: PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![Tech Stack: Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat)](https://www.prisma.io/)
