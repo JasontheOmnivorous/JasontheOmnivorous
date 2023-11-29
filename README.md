@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 --------------------
 
-I'm a rookie in the vast landscape of coding, fueled by curiosity and a desire to create impactful, user-friendly applications. With a focus on full-stack JavaScript development, I'm exploring the realms of both front-end and back-end technologies to build seamless, end-to-end solutions.
+Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of full-stack development. I'm all in to find seamless solutions for all kinds of business problems with tech. Let's code some digital awesomeness together! 🚀✨
 
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [marsjason485@gmail.com](mailto:marsjason485@gmail.com)
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on JavaScript/TypeScript based projects
+* 🤝  I'm open to collaborate and experience new things.
 
 ### Skills
 
