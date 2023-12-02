@@ -6,9 +6,9 @@ Full-stack Developer
 
 Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of full-stack development. I'm all in to find seamless solutions for all kinds of business problems with tech. Let's code some digital awesomeness together! 🚀✨
 
-* 🌍  I'm based in Yangon
+* 🌍  I'm based in Yangon.
 * ✉️  You can contact me at [marsjason485@gmail.com](mailto:marsjason485@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js currently.
 * 🤝  I'm open to collaborate and experience new things.
 
 ### Skills
