@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 --------------------
 
-Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of full-stack development. I'm all in to find seamless solutions for all kinds of business problems with tech. Let's code some digital awesomeness together! 🚀✨
+Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of full-stack development. I'm all in to find seamless solutions for all kinds of business problems with tech. Let's build some digital awesomeness together! 🚀✨
 
 * 🌍  I'm based in Yangon.
 * ✉️  You can contact me at [marsjason485@gmail.com](mailto:marsjason485@gmail.com)
