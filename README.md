@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Min Thant Khaing
+Min Thant Khaing
 ========================================================================================================================================
 
-Web Developer
+Tech Enthusiast
 -------------
 
-Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of full-stack development. I'm all in, to find seamless solutions for all kinds of business problems with tech. Let's build some digital awesomeness together! 🚀✨
+Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of Software Engineering. I'm all in, to find seamless solutions for all kinds of business problems with tech. Let's build some digital awesomeness together! 🚀✨
 
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [marsjason485@gmail.com](mailto:marsjason485@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Software Engineering Workflows
 * 🤝  I'm open to collaborating and experiencing new technical stuffs!
 
 ### Skills
