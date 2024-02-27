@@ -4,14 +4,7 @@ Min Thant Khaing
 Tech Enthusiast
 -------------
 
-Hey there! I'm a 19-year-old tech enthusiast exploring the wonders of Software Engineering. I'm all in, to find seamless solutions for all kinds of business problems with tech. Let's build some digital awesomeness together! 🚀✨
-
-* 🌍  I'm based in Yangon
-* ✉️  You can contact me at [marsjason485@gmail.com](mailto:marsjason485@gmail.com)
-* 🧠  I'm learning Software Engineering Workflows
-* 🤝  I'm open to collaborating and experiencing new technical stuffs!
-
-### Skills
+A guy who knows what he's doing. In other words, a capable man.
 
 
 <p align="left">
