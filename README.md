@@ -4,7 +4,7 @@ Min Thant Khaing
 Tech Enthusiast
 -------------
 
-A guy who knows what he's doing. In other words, a capable man.
+A guy who knows what he's doing.
 
 
 <p align="left">
